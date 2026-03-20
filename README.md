@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Joe Sebastian 👋
 
-<!--
-**joesebastian6079/joesebastian6079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product leader who builds. 10+ years shipping products across AI/ML, e-commerce, and SaaS — now building autonomous coding systems and AI agent frameworks with local LLMs.
 
-Here are some ideas to get you started:
+## What I Build
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **Autonomous coding systems** — feed a PRD, get working code overnight using local LLMs (vLLM-MLX, Qwen3-8B), custom RAG pipelines, and automated quality verification
+
+🔧 **AI agent workflow automation** — built a framework managing 897 skills across 5 priority tiers, with automated knowledge extraction, drift detection (34+ daily reports, 98% system health), and universal project bootstrap for 8 tech stacks
+
+📢 **Open source developer tools** — [notify-on-completion](https://github.com/joesebastian6079/notify-on-completion): smart macOS notifications for terminal commands and Claude Code
+
+## Tech Stack
+
+`Python` `Bash` `Ollama` `vLLM-MLX` `RAG Pipelines` `Docker` `Git` `FastAPI` `macOS LaunchAgents`
+
+## What I've Shipped
+
+– Built India's first 60-second website builder (Webbzer) — 5,000+ SME customers
+– Scaled a creator economy platform to 500K+ users across 22 countries (PLUC)
+– Delivered 22% revenue growth and 20% CAC reduction at an AI marketing platform (Adden AI)
+
+## Connect
+
+💼 [LinkedIn](https://www.linkedin.com/in/joe-sebastian-73401731)
+📧 joe.sebastian6079@gmail.com
+📍 New Delhi, India
+
+*PM who builds things. Currently exploring local LLM inference and autonomous development systems.*
