@@ -5,7 +5,6 @@ Product leader who builds. 10+ years shipping products across AI/ML, e-commerce,
 ## What I Build
 
 🤖 **Autonomous coding systems** — feed a PRD, get working code overnight using local LLMs (vLLM-MLX, Qwen3-8B), custom RAG pipelines, and automated quality verification
-
 🔧 **AI agent workflow automation** — built a framework managing 897 skills across 5 priority tiers, with automated knowledge extraction, drift detection (34+ daily reports, 98% system health), and universal project bootstrap for 8 tech stacks
 
 📢 **Open source developer tools** — [notify-on-completion](https://github.com/joesebastian6079/notify-on-completion): smart macOS notifications for terminal commands and Claude Code
@@ -19,6 +18,18 @@ Product leader who builds. 10+ years shipping products across AI/ML, e-commerce,
 – Built India's first 60-second website builder (Webbzer) — 5,000+ SME customers
 – Scaled a creator economy platform to 500K+ users across 22 countries (PLUC)
 – Delivered 22% revenue growth, 20% CAC reduction, and 10–15% conversion lift for agency clients at an AI marketing platform (Adden AI)
+
+## Currently
+
+🔨 Building Ralph Town — autonomous PRD-to-code system with local LLMs
+📦 Maintaining notify-on-completion — macOS notifications for terminal/AI coding
+🎯 Exploring: agent memory architectures, local model fine-tuning, PRD parsing with structured outputs
+
+## Open To
+
+→ Senior/Staff PM roles in AI/ML or technical product strategy
+→ Advisory roles for early-stage AI startups
+→ Collaborations on open source developer tools
 
 ## Connect
 
