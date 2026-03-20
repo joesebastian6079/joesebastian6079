@@ -18,7 +18,7 @@ Product leader who builds. 10+ years shipping products across AI/ML, e-commerce,
 
 – Built India's first 60-second website builder (Webbzer) — 5,000+ SME customers
 – Scaled a creator economy platform to 500K+ users across 22 countries (PLUC)
-– Delivered 22% revenue growth and 20% CAC reduction at an AI marketing platform (Adden AI)
+– Delivered 22% revenue growth, 20% CAC reduction, and 10–15% conversion lift for agency clients at an AI marketing platform (Adden AI)
 
 ## Connect
 
