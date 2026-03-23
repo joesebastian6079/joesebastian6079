@@ -19,18 +19,6 @@ Product leader who builds. 10+ years shipping products across AI/ML, e-commerce,
 – Scaled a creator economy platform to 500K+ users across 22 countries (PLUC)
 – Delivered 22% revenue growth, 20% CAC reduction, and 10–15% conversion lift for agency clients at an AI marketing platform (Adden AI)
 
-## Currently
-
-🔨 Building Ralph Town — autonomous PRD-to-code system with local LLMs
-📦 Maintaining notify-on-completion — macOS notifications for terminal/AI coding
-🎯 Exploring: agent memory architectures, local model fine-tuning, PRD parsing with structured outputs
-
-## Open To
-
-→ Senior/Staff PM roles in AI/ML or technical product strategy
-→ Advisory roles for early-stage AI startups
-→ Collaborations on open source developer tools
-
 ## Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/joe-sebastian-73401731)
