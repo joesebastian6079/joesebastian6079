@@ -1,5 +1,7 @@
 # Hi, I'm Joe Sebastian 👋
 
+[![Joe Sebastian profile views](https://u8views.com/api/v1/github/profiles/6203660/views/day-week-month-total-count.svg)](https://u8views.com/github/joesebastian6079)
+
 Product leader who builds. 10+ years shipping products across AI/ML, e-commerce, and SaaS — now building autonomous coding systems and AI agent frameworks with local LLMs.
 
 ## What I Build
