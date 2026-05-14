@@ -6,7 +6,7 @@ Product leader who builds. 10+ years shipping products across AI/ML, e-commerce,
 
 ## What I Build
 
-🤖 **Autonomous coding systems** — feed a PRD, get working code overnight using local LLMs (vLLM-MLX, Qwen3-8B), custom RAG pipelines, and automated quality verification
+🤖 **Autonomous coding systems** — feed a PRD, get working code overnight using local LLMs (MLX, Qwen3-8B), custom RAG pipelines, and automated quality verification
 
 🔧 **AI agent workflow automation** — built a framework managing 897 skills across 5 priority tiers, with automated knowledge extraction, drift detection (34+ daily reports, 98% system health), and universal project bootstrap for 8 tech stacks
 
