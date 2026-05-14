@@ -14,7 +14,7 @@ Product leader who builds. 10+ years shipping products across AI/ML, e-commerce,
 
 ## Tech Stack
 
-`Python` `Bash` `Ollama` `vLLM-MLX` `RAG Pipelines` `Docker` `Git` `FastAPI` `macOS LaunchAgents`
+`Python` `Bash` `Ollama` `MLX` `RAG Pipelines` `Docker` `Git` `FastAPI` `macOS LaunchAgents`
 
 ## What I've Shipped
 
